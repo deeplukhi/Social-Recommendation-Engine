@@ -1,0 +1,181 @@
+1 breaking_bad
+1 narcos
+1 dark
+1 better_call_saul
+1 true_detective
+2 breaking_bad
+2 better_call_saul
+2 true_detective
+2 mindhunter
+3 better_call_saul
+3 true_detective
+3 mindhunter
+3 ozark
+4 true_detective
+4 mindhunter
+4 ozark
+4 the_sopranos
+5 mindhunter
+5 ozark
+5 the_sopranos
+5 the_wire
+6 ozark
+6 the_sopranos
+6 the_wire
+6 prison_break
+7 the_sopranos
+7 the_wire
+7 prison_break
+
+1 breaking_bad
+1 narcos
+1 dark
+1 better_call_saul
+1 true_detective
+
+2 breaking_bad
+2 better_call_saul
+2 true_detective
+2 mindhunter
+
+3 better_call_saul
+3 true_detective
+3 mindhunter
+3 ozark
+
+4 true_detective
+4 mindhunter
+4 ozark
+4 the_sopranos
+
+5 mindhunter
+5 ozark
+5 the_sopranos
+5 the_wire
+
+6 ozark
+6 the_sopranos
+6 the_wire
+6 prison_break
+
+7 the_sopranos
+7 the_wire
+7 prison_break
+7 dexter
+
+8 the_wire
+8 prison_break
+8 dexter
+8 narcos
+
+9 prison_break
+9 dexter
+9 narcos
+9 fargo
+
+10 dexter
+10 narcos
+10 fargo
+10 criminal_minds
+
+11 dark
+11 black_mirror
+11 severance
+11 mr_robot
+
+12 black_mirror
+12 severance
+12 mr_robot
+12 westworld
+
+13 severance
+13 mr_robot
+13 westworld
+13 twin_peaks
+
+14 mr_robot
+14 westworld
+14 twin_peaks
+14 the_leftovers
+
+15 dark
+15 narcos
+15 black_mirror
+15 stranger_things
+
+16 breaking_bad
+16 better_call_saul
+16 ozark
+16 fight_club
+
+17 fight_club
+17 se7en
+17 shutter_island
+
+18 taxi_driver
+18 nightcrawler
+18 prisoners
+
+19 prisoners
+19 the_truman_show
+19 american_psycho
+
+20 donnie_darko
+20 black_swan
+20 the_machinist
+
+21 game_of_thrones
+21 house_of_the_dragon
+21 vikings
+
+22 harry_potter
+22 pirates_of_the_caribbean
+22 star_wars
+
+23 stranger_things
+23 the_walking_dead
+23 squid_game
+
+24 alice_in_borderland
+24 squid_game
+24 dark
+
+25 outer_banks
+25 the_umbrella_academy
+25 stranger_things
+
+26 it
+26 the_batman
+26 prisoners
+
+27 hannibal
+27 mindhunter
+27 true_detective
+
+28 fargo
+28 true_detective
+28 the_wire
+
+29 narcos
+29 breaking_bad
+29 better_call_saul
+
+30 chernobyl
+30 dark
+30 black_mirror
+72 true_detective
+72 better_call_saul
+72 prison_break
+72 dexter
+72 true_detective
+74 letoc
+74 ok
+75 ok
+76 the_wire
+76 breaking_bad
+78 latoc
+80 2
+81 better_call_saul
+81 true_detective
+82 dark
+82 narcos
