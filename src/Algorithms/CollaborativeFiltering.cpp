@@ -1,4 +1,5 @@
 #include "CollaborativeFiltering.h"
+#include "Popularity.h"
 #include <unordered_set>
 #include <unordered_map>
 #include <queue>
@@ -53,6 +54,11 @@ vector<int> CollaborativeRecommendation::recommend(graph &g, int userId) {
         }
     }
 
+    if (itemScore.empty()) {
+        return Popularity::getTopKPopular(g, userWatched);
+    }
+
+        //very improtant it is - popularity panelty
     unordered_map<int,double> finalScore;
 
     for (auto &p : itemScore) {
